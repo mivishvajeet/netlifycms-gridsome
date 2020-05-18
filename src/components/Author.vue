@@ -2,7 +2,7 @@
 	<div class="author">
 
 		<h1 v-if="showTitle" class="author__site-title">
-			Vishvajeet Dhawale
+			Vishvajeet Vasantrao Dhawale
 		</h1>
 
 		<p class="author__intro">
