@@ -1,7 +1,7 @@
 <template>
 	<g-link class="logo" to="/">
 	  <span class="logo__text">
-	    &larr; {Vishvajeet}
+	    &larr; Back
 	  </span>
 	</g-link>
 </template>
