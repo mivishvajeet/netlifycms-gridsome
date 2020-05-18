@@ -2,7 +2,7 @@
 	<div class="author">
 
 		<h1 v-if="showTitle" class="author__site-title">
-			{{ $static.metadata.siteName }}
+			Vishvajeet Dhawale
 		</h1>
 
 		<p class="author__intro">
