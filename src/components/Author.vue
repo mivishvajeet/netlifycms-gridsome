@@ -6,7 +6,8 @@
 		</h1>
 
 		<p class="author__intro">
-			कल्पनेचा प्रांत |
+			I love being envied and hated, because no one envied the ugly and nobody hated the weak.
+			   <br>      |  कल्पनेचा प्रांत |
 		</p>
 
 		<p class="author__links">
