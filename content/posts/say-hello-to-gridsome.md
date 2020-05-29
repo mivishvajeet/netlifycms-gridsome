@@ -17,29 +17,24 @@ Here is an example on how to query posts from the GraphQL layer in a page:
 
 
 ```html
-<template>
-  <Layout>
-    <h2>Latest blog posts</h2>
-    <ul>
-      <li v-for="edge in $page.allWordPressPost.edges" :key="edge.node.id">
-        {{ edge.node.title }}
-      </li>
-    </ul>
-  </Layout>
-</template>
+ड्याळाची टिकटिक
+वहीची पाने
+पेनाची शाई
+टपोरं अक्षर
+आणि
+शब्दांची विलोभनीय आरास सुद्धा..!
 
-<page-query>
-query Blog {
-  allWordPressPost (limit: 5) {
-    edges {
-      node {
-        _id
-        title
-      }
-    }
-  }
-}
-</page-query>
+आणि
+अवेळी आलेल्या पावसासारखी
+एकाएकी येते तुझी आठवण
+सोनेरी शेत झोपवावं
+तशी चिंब चिंब भिजवत
+होत्याचं नव्हतं करत
+आणि
+मी
+दाटलेला कंठ लपवत
+पुन्हा सांगतो सगळ्यांना
+सुरळीssत चाललंय साssरं काही..!
 ```
 
 You don't need to know GraphQL or Vue to get started with Gridsome - It's a great way to get introduced to both.
