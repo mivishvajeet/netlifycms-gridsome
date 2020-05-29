@@ -22,21 +22,23 @@ Maybe, we both were different or maybe you never tried to hold my hands.
 If you ever tried then our separation never compels me to write our incomplete story, sorry my incomplete story,
 because after me It was very easy let it go ?.
 
-### Paragraphs and Line Breaks
+### 2 AM
+15-05-2020
 
-A paragraph is simply one or more consecutive lines of text, separated
-by one or more blank lines. (A blank line is any line that looks like a
-blank line -- a line containing nothing but spaces or tabs is considered
-blank.) Normal paragraphs should not be indented with spaces or tabs.
 
-The implication of the "one or more consecutive lines of text" rule is
-that Markdown supports "hard-wrapped" text paragraphs. This differs
-significantly from most other text-to-HTML formatters (including Movable
-Type's "Convert Line Breaks" option) which translate every line break
-character in a paragraph into a `<br />` tag.
+Sometimes bonds burn out as soon as they ignite. They turn into something else so rapidly that even the people involved themselves can't pick a point where things started going south. All of a sudden the two people who loved(maybe) each other like they never could have imagined, begin to despise one another with extreme intensity.The two people who felt they could never be happy unless they were together, realize now that they are anything but. The two people who spent countless hours lost in conversations with one another, now couldn't stand looking at each other.
+Those two people whose realities had magically merged into one experience, now wished they could forget about each other's existence. Those two people who could brighten up each other's day no matter how dark it had been, are now ready to do anything to inflict misery upon the other.
 
-When you *do* want to insert a `<br />` break tag using Markdown, you
-end a line with two or more spaces, then type return.
+Those whose lives once revolved around one another, now wished they had never known each other. Those who were obsessed with one another, now couldn't even bear to look at each other. Those who loathed the time not spent together, now couldn't spend a minute without screaming at each other. Those who thought they would spend the rest of their days together now prayed for the death of their significant other.
+Both of them begin to wish they couldn't feel.They begin to wish they were numb.Their memories of good times spent, eventually fade away to mix into this cocktail of regret and resentment.
+
+People change due to which, relationships decay and that is only natural. But I've seen that people don't treat it that way.They feel terrible when their relationships begin to fizzle out, so they try to deny it which fucks the whole thing up even more.They look at a relationship ending as if they have failed, But they would be better off looking at it like the relationship has run its course.
+
+To evolve at the same rate as another person is extremely difficult if not impossible. So rather than drowning in liquor and drugs, It's better to feel the pain, the hurt, and the loss. Because we are what we experience and if we constantly try to numb ourselves we deplete ourselves of emotions leaving within us an infinite emptiness...
+
+
+
+
 
 ### Headers
 
