@@ -50,7 +50,7 @@ Here is an example on how to query posts from the GraphQL layer in a page:
 सुरळीssत चाललंय साssरं काही..!
 ```
 
-          ##अंधार 💚
+          ####अंधार 💚
 
 ```html
 
