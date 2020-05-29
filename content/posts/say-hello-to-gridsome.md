@@ -6,14 +6,63 @@ tags: ['Markdown', 'Releases']
 description: "A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!"
 
 ---
+```html
+आमच्याकडे एक पियानो होता
+कोणीच वाजवायचं नाही
 
-A new static site generator baby is born. It's highly inspired by Gatsby.js (React based) but built on top of Vue.js. We have been working on it for a year and will have a beta ready soon. You can expect this baby to grow up fast!
+आमच्याकडे एक डबा पण होता
+जो कोणीच न्यायचं नाही
+आणि नाही त्यात काही भरायचे
 
-We think **Gridsome** is a missing piece to the Vue.js ecosystem. What Gatsby.js does for React.js is a game changer in how we build websites.  React.js is excellent, but we think Vue.js is more approachable for most web designers and devs getting started with JAMstack. Gridsome is the Vue.js alternative to Gatsby.
+एक पुस्तक आहे
+अजूनही वरच्या शेल्फ मध्ये
+बरोबर पान नंबर 36 दुमडून ठेवलेलं
+कोणीच त्याचं दुमाडलेलं पान हलवलं पण नाही
 
-With **Gridsome** you get a **universal GraphQL layer** for all your connected data sources. It's like a single source of truth for your website data ready to be used in any page or components. Connect to any CMS or APIs like Google Spreadsheet, Airtable, Instagram Feed, local markdown files, etc. 
+या सगळ्या गोष्टी तश्याच आहेत
+त्यावर धूळ साचते
+आम्ही ती स्वच्छ करतो
+अंगावर काटा येईल असा आवाज सुद्धा होतो कधी कधी
 
-Here is an example on how to query posts from the GraphQL layer in a page:
+तेव्हा वाटतं की वस्तू बोलतात
+आतल्या आत क्हणतात
+या वस्तूंची उत्तरं मागत
+कित्येक रात्री मी काढलेल्या
+
+```
+
+```html
+
+स्वप्नं
+
+धावत पळत जायचं
+किनाऱ्यावर :
+अलीकडच्या पाऊलवाटेने
+पहिले जिथे लाट थांबेल
+तिथे जाऊन उभं राहायचं,
+स्तब्ध..
+शांतपणे..
+समुद्र भरभरून देईल ;
+आपणच घेण्याची ताकद
+बघत राहायची स्वतःची.
+तुला भेटायला आलेलो
+तेव्हा सुद्धा मी असाच उभा होतो
+तुझ्यासमोर
+स्तब्ध..
+शांतपणे..
+
+
+
+
+```
+
+
+
+
+
+
+
+
 
 
 ```html
@@ -50,7 +99,7 @@ Here is an example on how to query posts from the GraphQL layer in a page:
 सुरळीssत चाललंय साssरं काही..!
 ```
 
-          ####अंधार 💚
+
 
 ```html
 
@@ -81,46 +130,3 @@ Here is an example on how to query posts from the GraphQL layer in a page:
 
 ```
 
-
-You don't need to know GraphQL or Vue to get started with Gridsome - It's a great way to get introduced to both.
-
-
-The GraphQL layer and all the data can be explored in a local GraphQL playground. The playground is usually located at `https://localhost:8080/___explore` when a Gridsome development project is running.
-
-
-
-
-
-
-#### Perfect scores on Google Lighthouse - automagically 💚
-
-One of the main goals of Gridsome is to make a framework that let you build websites that are optimized "out-of-the-box." It follows the [PRPL-pattern by Google.](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) You don't need to be a performance expert to make fast websites with Gridsome. Your site gets almost perfect scores on Google lighthouse out-of-the-box. These are some of the performance steps that Gridsome takes care of:
-
-- Image compressing & lazy-loading ⚡️ 
-- CSS & JS minification ⚡️ 
-- Code-splitting ⚡️ 
-- HTML compressing ⚡️ 
-- Critical CSS (Plugin) ⚡️ 
-- Full PWA & Offline-support (plugin) ⚡️  
-
-
-#### A better way to build websites
-
-Gridsome is built for the JAMstack workflow - a new way to build websites that gives you better performance, higher security, cheaper hosting, and a better developer experience. Generate prerendered (static) pages at build time for SEO-purpose and add powerful dynamic functionality with APIs and Vue.js.
-
-We believe the SSGs / JAMstack trend is just getting started. When you have first started to make websites this way there is no way back. You feel almost "dirty" when going back to a traditional WordPress / CMS setup. 
-
-Try running the new Chrome Lighthouse (Audit tab in Developer tools) on a WordPress site - It is impossible to get good scores even with the best caching plugins and hosting. With Gridsome you don't even need caching plugins. Website optimization is taken care of at build time.
-
-This is what we think is very exciting and is why we are building Gridsome. It is the **perfect SPA & PWA front-end solution** for any headless CMS or content APIs.
-
-
-#### Whats next
-
-In the next couple of months we're going to continue to improve the docs, create tutorials, add more source & transformer plugins and fix bugs. 
-
-#### Contribute to Gridsome
-
-We're currently just two brothers working on this, so any contribution is very welcome. We're passionate about building a faster web and make website building fun again.
-
-You can also support us by giving [a GitHub star ★](https://github.com/gridsome/gridsome/stargazers) and spread the word :)
