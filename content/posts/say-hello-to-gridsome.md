@@ -88,30 +88,6 @@ You don't need to know GraphQL or Vue to get started with Gridsome - It's a grea
 The GraphQL layer and all the data can be explored in a local GraphQL playground. The playground is usually located at `https://localhost:8080/___explore` when a Gridsome development project is running.
 
 
-समोर अंधार
-अंधारात सगळे
-आपणही अंधारात ;
-एकमेकांना चाचपडत,
-उजेडाच्या कसोटीवर
-खरे ठरत ठरत,
-क्षणाला वाटून सुद्धा जातं
-हा अंधारच कंफर्टेबल आहे :
-उजेड म्हणलं की
-जबाबदाऱ्या येतात
-आपल्याला खोलवर जाणून
-आपल्याला आर पार ओळखण्याची
-भीती वाटते..
-अंधारात तू हात धरलास
-तरी कोणाला काही कळणार नाही
-आणि उजेडात हेच सगळं केलंस
-तर आपल्या या नात्याचे अर्थ
-त्या धरलेल्या हातांना
-गिरवता येणार नाहीत ;
-मग अशा वेळी काय?
-अशा वेळी मला उजेडात
-फक्त कविता ऐकवायला जमली
-तर अंधारात तुझे डोळे
-हलकेच हसून तू पुसशील ना?
 
 
 
